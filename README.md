@@ -16,3 +16,16 @@ Coins left: 2
 
 Note that Go doesn’t keep the order of the keys in a map, so your results might not look exactly the same but the key/value mapping should be the same.
 
+# Divide Two Number
+
+LeetCode Divide Two Integers
+Given two integers dividend and divisor, divide two integers without using multiplication, division and mod operator.
+
+Return the quotient after dividing dividend by divisor.
+
+The integer division should truncate toward zero.
+Example 1:
+```
+Input: dividend = 10, divisor = 3
+Output: 3
+```
